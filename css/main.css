@@ -123,3 +123,69 @@ input[type="color"]:focus,
   -o-transition: all ease 1s;
   transition: all ease 1s;
 }
+/**   *Cursos*   **/
+.banner {
+  background-color: #009cde;
+  font-family: 'Roboto';
+  color: #fff;
+  padding-bottom: 5px;
+}
+.banner .title-page {
+  font-family: 'Roboto Thin', sans-serif;
+  font-weight: normal;
+  margin-bottom: 40px;
+}
+.banner .title-page2 {
+  font-weight: 400;
+}
+#body-bg {
+  background-color: #dbdbdb;
+}
+.m-b-lg {
+  margin-bottom: 45px !important;
+}
+.m-b {
+  margin-bottom: 15px !important;
+}
+.m-b-o {
+  margin-bottom: 0 !important;
+}
+.panel-promo .panel-heading {
+  height: 150px;
+  background-size: cover;
+}
+.panel-promo .panel-title {
+  font-family: "Roboto Thin";
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+.panel-promo-img {
+  max-width: 130px;
+  margin-top: -95px;
+  margin-bottom: 5px;
+  border: 4px solid #fff;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+.panel-video {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.panel .panel-body {
+  background-color: #fff;
+}
+footer {
+  color: #c6bec4;
+}
+footer #footer {
+  position: absolute;
+  background: #181818;
+  padding: 25px 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
